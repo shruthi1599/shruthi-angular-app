@@ -1,0 +1,1 @@
+ansiblePlaybook become: true, credentialsId: '781b62a0-5db6-4431-a00d-6560e527c578', inventory: 'host.inv', playbook: 'play-deploy.yml'
